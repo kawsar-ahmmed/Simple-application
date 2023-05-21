@@ -1,0 +1,7 @@
+.activity img {
+width: 100%;
+}
+.activity {
+    border: 1px solid green;
+    border-radius: 18px;
+}
